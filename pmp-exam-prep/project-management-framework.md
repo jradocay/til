@@ -1,58 +1,70 @@
 # Project Management Framework
 
 ## Definition of a Project
-A project:
-- Is a temporary endeavor with a beginning and an end
-- Creates a unique product, service, or result
-- NOT operational work (ongoing work to support the business)
+Temporary endeavor undertaken to create a unique product, service, or result.  
+_(NOT operational work - ongoing work to support the business)_
 
 ## What is Project Management?
-**Process groups:**
-1. Initiating
-2. Planning
-3. Executing
-4. Monitoring & Controlling
-5. Closing
+The application of knowledge, skills, tools, and techniques to project activities to meet project requirements
 
-**Knowledge areas:**
-1. Integration
-2. Scope
-3. Time
-4. Cost
-5. Quality
-6. Human resources
-7. Communications
-8. Risk
-9. Procurement
-10. Stakeholder Management
+**Process Groups (5):**
+1. Initiating  
+2. Planning  
+3. Executing  
+4. Monitoring & Controlling  
+5. Closing  
+
+**Knowledge Areas:**
+1. Integration  
+2. Scope  
+3. Time  
+4. Cost  
+5. Quality  
+6. Human Resources  
+7. Communications  
+8. Risk  
+9. Procurement  
+10. Stakeholder Management  
 
 ## Organizational Project Management (OPM)
 Provides a strategic framework to use and guide portfolio, program, and project management to deliver organizational strategy.  Assume this organizational framework is in place.
 
 ## Portfolio Management
-Selects and prioritizes programs and projects that will best achieve the organization's strategic goals
+Projects, programs, subportfolios, and operations managed as a group to achieve strategic objectives.  Aligns with organizational strategies by selecting the right programs or projects, prioritizing the work, and providing the needed resources.  Projects or programs may not necessarily be interdependent or directly related.
 
 ## Program Management
-Coordinates the management of related projects to achieve specific benefits that support the organization's strategic goals
+Coordinates the management of related projects, subprograms, and program activities to achieve specific benefits that support the organization's strategic goals.  Projects within a program are related through the common outcome or collective capability (harmonized).
 
 ## Project Management
-Manages efforts to develop specific scope, which supports the portfolio or program management objectives and ultimately the the organization's strategic goals
+Develops and implements plans to achieve specific scope that is driven by the objectives of the program or portfolio it is subjected to and ultimately to organizational strategic goals.
 
 ## OPML3
 PMI's organizational project management maturity model
 
 ## Project Management Office (PMO)
-The project management office (PMO) centralizes and standardizes the management of projects
+Management structure to centralizes the project-related governance processes and facilitates the sharing of resources, methodologies, and techniques.  Natural liason between the organization's portfolios, programs, and projects.
 
-**Supportive:**  recommends the policies, methodologies, templates, and lessons learned - **low level of control**
-**Controlling:**  provides support and guidance, trains others, assists with specific tools, and ensures compliance to organizational practices - **moderate level of control**
-**Directive:**  provides project managers for different projects and is responsible for the priority & results of all projects - **high level of control**
+-**Supportive:**  
+..- Consultative
+..- Recommends policies, methodologies, templates, and lessons learned
+..- Project repository
+..- Low level of control
+
+-**Controlling:**  
+..- Ensures compliance
+..- Provides support and guidance, trains others, assists with specific tools
+..- Moderate level of control
+
+**Directive:**  
+..- Takes control
+..- Provides project managers for different projects and is responsible for the priority & results of all projects
+..- High level of control
 
 ## Constraints
 As a project manager, you must juggle many things on a project, including project contraints like **quality, scope, cost, time, resources, risk, and customer satisfaction** that limit options.  Constraints help evaluate competing demands.
 
 ## Stakeholders
-Stakeholders are any people or organizations whose interests may be positively or negatively impacted by the project or its product.
+Stakeholders are any people or organizations whose interests may be positively or negatively impacted by the project or its product.  Includes members of the project team.
 
 ## Stakeholder Management
 Treating stakeholders like assistant team members means you keep them informed, solicit their input, and work to satisfy their needs and expectations.  Without this effort, the project may fail.
