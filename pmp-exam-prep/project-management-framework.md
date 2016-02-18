@@ -7,14 +7,14 @@ _(NOT operational work - ongoing work to support the business)_
 ## What is Project Management?
 The application of knowledge, skills, tools, and techniques to project activities to meet project requirements
 
-**Process Groups (5):**
+**Process Groups (5):**  
 1. Initiating  
 2. Planning  
 3. Executing  
 4. Monitoring & Controlling  
 5. Closing  
 
-**Knowledge Areas:**
+**Knowledge Areas:**  
 1. Integration  
 2. Scope  
 3. Time  
@@ -44,21 +44,21 @@ PMI's organizational project management maturity model
 ## Project Management Office (PMO)
 Management structure to centralizes the project-related governance processes and facilitates the sharing of resources, methodologies, and techniques.  Natural liason between the organization's portfolios, programs, and projects.
 
--**Supportive:**  
-..- Consultative
-..- Recommends policies, methodologies, templates, and lessons learned
-..- Project repository
-..- Low level of control
+**Supportive:**  
+  - Consultative  
+  - Recommends policies, methodologies, templates, and lessons learned  
+  - Project repository  
+  - Low level of control  
 
--**Controlling:**  
-..- Ensures compliance
-..- Provides support and guidance, trains others, assists with specific tools
-..- Moderate level of control
+**Controlling:**  
+  - Ensures compliance  
+  - Provides support and guidance, trains others, assists with specific tools  
+  - Moderate level of control  
 
 **Directive:**  
-..- Takes control
-..- Provides project managers for different projects and is responsible for the priority & results of all projects
-..- High level of control
+  - Takes control  
+  - Provides project managers for different projects and is responsible for the priority & results of all projects  
+  - High level of control  
 
 ## Constraints
 As a project manager, you must juggle many things on a project, including project contraints like **quality, scope, cost, time, resources, risk, and customer satisfaction** that limit options.  Constraints help evaluate competing demands.
