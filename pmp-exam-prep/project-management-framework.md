@@ -7,7 +7,7 @@ _(NOT operational work - ongoing work to support the business)_
 ## What is Project Management?
 The application of knowledge, skills, tools, and techniques to project activities to meet project requirements
 
-**Process Groups (5):**  
+**Process Groups:**  
 1. Initiating  
 2. Planning  
 3. Executing  
@@ -44,18 +44,18 @@ PMI's organizational project management maturity model
 ## Project Management Office (PMO)
 Management structure to centralizes the project-related governance processes and facilitates the sharing of resources, methodologies, and techniques.  Natural liason between the organization's portfolios, programs, and projects.
 
-**Supportive:**  
+**Supportive:**
   - Consultative  
   - Recommends policies, methodologies, templates, and lessons learned  
   - Project repository  
   - Low level of control  
 
-**Controlling:**  
+**Controlling:**
   - Ensures compliance  
   - Provides support and guidance, trains others, assists with specific tools  
   - Moderate level of control  
 
-**Directive:**  
+**Directive:**
   - Takes control  
   - Provides project managers for different projects and is responsible for the priority & results of all projects  
   - High level of control  
@@ -70,20 +70,33 @@ Stakeholders are any people or organizations whose interests may be positively o
 Treating stakeholders like assistant team members means you keep them informed, solicit their input, and work to satisfy their needs and expectations.  Without this effort, the project may fail.
 
 ## Organizational Structure
-Projects are impacted by the cultural norms, management policies, and procedures of the organizations of which they are a part.
-**Functional:**  Silo.  Grouped by areas of specialization (accounting, marketing, etc.)  Team members complete project work in addition to departmental work.  Communication stays within the department.
-Advantages:
-1. Easier management of specialists
-2. Team members report to only one supervisor
-3. Similar resources are centralized, as the company is grouped by specialists
-4. Clearly defined career paths in areas of specialization
-Disadvantages:
-1. People place more emphasis on their functional specialty to the detriment of the project
-2. No career path in project management
-3. The project manager has little or no authority
+Projects are impacted by the cultural norms, management policies, and procedures of the organizations of which they are a part.  
 
-**Projectized:**  No home.  Grouped by project with the project manager in control of the project.  Personnele are assigned to and report to the project manager.  Communication stays within the project.  Personnel must find another project after the work is done.
-Advantages:
+**Functional:**  
+  - Silo  
+  - Grouped by areas of specialization (accounting, marketing, etc.)  
+  - Team members complete project work in addition to departmental work.  
+  - Communication stays within the department.  
+
+Advantages:  
+1. Easier management of specialists  
+2. Team members report to only one supervisor  
+3. Similar resources are centralized, as the company is grouped by specialists  
+4. Clearly defined career paths in areas of specialization  
+
+Disadvantages:  
+1. People place more emphasis on their functional specialty to the detriment of the project  
+2. No career path in project management  
+3. The project manager has little or no authority  
+
+**Projectized:**  
+  - No home  
+  - Grouped by project with the project manager in control of the project  
+  - Personnel are assigned to and report to the project manager  
+  - Communication stays within the project  
+  - Personnel must find another project after the work is done  
+
+Advantages:  
 1. Efficient project organization
 2. Team loyalty to the project
 3. More effective communications than functional
