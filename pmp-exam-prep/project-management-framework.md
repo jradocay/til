@@ -70,7 +70,7 @@ Stakeholders are any people or organizations whose interests may be positively o
 Treating stakeholders like assistant team members means you keep them informed, solicit their input, and work to satisfy their needs and expectations.  Without this effort, the project may fail.
 
 ## Organizational Structure
-Projects are impacted by the cultural norms, management policies, and procedures of the organizations of which they are a part.  
+Projects are impacted by the cultural norms, management policies, and procedures of the organizations of which they are a part.
 
 **Functional:**  
   - Silo  
@@ -79,15 +79,15 @@ Projects are impacted by the cultural norms, management policies, and procedures
   - Communication stays within the department.  
 
 Advantages:  
-1. Easier management of specialists  
-2. Team members report to only one supervisor  
-3. Similar resources are centralized, as the company is grouped by specialists  
-4. Clearly defined career paths in areas of specialization  
+  - Easier management of specialists  
+  - Team members report to only one supervisor  
+  - Similar resources are centralized, as the company is grouped by specialists  
+  - Clearly defined career paths in areas of specialization  
 
 Disadvantages:  
-1. People place more emphasis on their functional specialty to the detriment of the project  
-2. No career path in project management  
-3. The project manager has little or no authority  
+  - People place more emphasis on their functional specialty to the detriment of the project  
+  - No career path in project management  
+  - The project manager has little or no authority  
 
 **Projectized:**  
   - No home  
@@ -97,50 +97,62 @@ Disadvantages:
   - Personnel must find another project after the work is done  
 
 Advantages:  
-1. Efficient project organization
-2. Team loyalty to the project
-3. More effective communications than functional
-Disadvantages:
-1. No "home" for team members when project is completed
-2. Lack of specialization in disciplines
-3. Duplication of facilities and job functions
-4. May result in less efficient use of resources
+  - Efficient project organization  
+  - Team loyalty to the project  
+  - More effective communications than functional  
 
-**Matrix:** Two bosses.  Team members report to both project manager and functional supervisor.  Communication goes from team members to both bosses.  Team members do project work and departmental work.
-Advantages:
-1. Highly visible project objectives
-2. Improved project manager control over resources
-3. More support from functional areas
-4. Maximum utilization of scarce resources
-5. Better coordination
-6. Better horizontal and vertical dissemination of information
-7. Team members maintain a "home"
-Disadvantages:
-1. Extra administration is required
-2. Project team members have more than one boss
-3. More complex to monitor and control
-4. Resource allocation is more complex
-5. Extensive policies and procedures are needed
-6. Functional managers may have different priorities than project managers
-7. Higher potential for conflict
+Disadvantages:  
+  - No "home" for team members when project is completed  
+  - Lack of specialization in disciplines  
+  - Duplication of facilities and job functions  
+  - May result in less efficient use of resources  
 
-**Project Expediter:**  acts as a staff assistant and communications coordinator.  Cannot personally make or enforce decisions.
+**Matrix:** 
+  - Two bosses
+  - Team members report to both project manager and functional supervisor  
+  - Communication goes from team members to both bosses  
+  - Team members do project work and departmental work  
+  - Project Manager acts as Project Expediter or Project Coordinator  
 
-**Project Coordinator:**  has some power to make decisions, some authority, and reports to a higher-level manager.
+Advantages:  
+  - Highly visible project objectives  
+  - Improved project manager control over resources  
+  - More support from functional areas  
+  - Maximum utilization of scarce resources  
+  - Better coordination  
+  - Better horizontal and vertical dissemination of information  
+  - Team members maintain a "home"  
 
-## Organizational Hierarchy
-Operational, middle management, strategic
+Disadvantages:  
+  - Extra administration is required  
+  - Project team members have more than one boss  
+  - More complex to monitor and control  
+  - Resource allocation is more complex  
+  - Extensive policies and procedures are needed  
+  - Functional managers may have different priorities than project managers  
+  - Higher potential for conflict  
+
+**Project Expediter:**  
+Acts as a staff assistant and communications coordinator.  Cannot personally make or enforce decisions.  
+
+**Project Coordinator:**  
+Has some power to make decisions, some authority, and reports to a higher-level manager.  
 
 ## Enterprise Environmental Factors
-Company "baggage" (culture and existing systems) that the project will have to deal with.
+Company "baggage" (culture and existing systems) that the project will have to deal with.  Not under the control of the project team.
 
 ## Organizational Process Assets
-Processes, procedures, and historical information.
-**Lessions learned** document what went righ and wrong; include:
-- Technical aspects of the project - What was right and wrong about how we completed the work to produce the product?
-- Project Management - How did we do with the WBS creation, risk planning, etc?
-- Management - How did I do with communications and leadership as a project manager?
-(both an input and an output of projects)
+- Processes, procedures, and policies  
+- Corporate Knowledge Base  
+- Historical information  
+- Lessons Learned  
+  - Technical aspects of the project  
+      - What was right and wrong about how we completed the work to produce the product?  
+  - Project Management  
+      - How did we do with the WBS creation, risk planning, etc?  
+  - Management  
+      - How did I do with communications and leadership as a project manager?  
+_(both an input and an output of projects)_
 
 ## Work Performance Data
 Initial measurements and details about activities gathered during project work (executing).
