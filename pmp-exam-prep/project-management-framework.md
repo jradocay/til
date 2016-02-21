@@ -169,6 +169,7 @@ Phases that a project passes through from its initiation to its closure.  What y
 - Organizing and preparing  
 - Carrying out the project work  
 - Closing the project  
+
 A project phase is a collection of logically related project activities that culminates in the completion of one or more deliverables/milestone.  A phase may emphasis processes from a particular Project Management Process Group but it is likely that most or all processes will be executed in some form in each phase.
 
 ### Methodologies
