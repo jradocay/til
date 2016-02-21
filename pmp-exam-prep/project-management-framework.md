@@ -155,20 +155,24 @@ Company "baggage" (culture and existing systems) that the project will have to d
 _(both an input and an output of projects)_
 
 ## Work Performance Data
-Initial measurements and details about activities gathered during project work (executing).
+Initial measurements and details about activities gathered during execution of project work.  Examples included reported percent of work physically completed, start and finish dates of schedule activities, actual costs, actual durations, etc.
 
 ## Work Performance Information
-Result of analyzing work performance data to make sure it conforms to the project management plan (controlling).
+Result of analyzing work performance data to make sure it conforms to the project management plan during various controlling processes.  Examples include status of deliverables and forecasted estimates to complete.
 
 ## Work Performance Reports
-Reports distributed to stakeholders as an output of monitoring & controlling.
+Reports distributed to stakeholders as an output of monitoring & controlling.  Examples include status reports, memos, justifications, and updates.
 
-## Project Life Cycle (Methodology)
-What you need to do to do the work
-1. **Predictive:** plan-driven; waterfall or traditional life cycle/methodology
-2. **Change-driven:** adaptive, iterative, agile, incremental life cycle/methodology.  Involved fixed time and cost but scope is broadly defined and refined as the project progresses.
+## Project Life Cycle
+Phases that a project passes through from its initiation to its closure.  What you need to do to _do_ the work.  
+- Starting the project  
+- Organizing and preparing  
+- Carrying out the project work  
+- Closing the project  
+A project phase is a collection of logically related project activities that culminates in the completion of one or more deliverables/milestone.  A phase may emphasis processes from a particular Project Management Process Group but it is likely that most or all processes will be executed in some form in each phase.
 
-## Project Management Process
-What you need to do to manage the work
-Initiating, planning, executing, monitoring & controlling, closing
-
+### Methodologies
+**Predictive:**  
+Plan-driven; waterfall or traditional life cycle/methodology.  Useful when the deliverable is well-understood.  
+**Change-driven:**  
+Adaptive, iterative, agile, incremental life cycle/methodology.  Time and cost are fixed but scope is broadly defined and refined as the project progresses.  Useful to respond to high levels of change and ongoing stakeholder involvement.  
