@@ -5,8 +5,6 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_1 TILs and counting..._
-
 ---
 
 ### Categories
@@ -18,6 +16,9 @@ _1 TILs and counting..._
 ### PMP Exam Prep 
 
 - [Project Management Framework](pmp-exam-prep/project-management-framework.md)
+- [Project Management Processes](pmp-exam-prep/project-management-processes.md)
+- [Project Integration Management](pmp-exam-prep/project-integration-management.md)
+- [Project Stakeholder Management](pmp-exam-prep/project-stakeholder-management.md)
 
 ## License
 
