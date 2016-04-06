@@ -26,7 +26,7 @@
 <a name="4.1"></a>
 **4. Project Integration Management / 4.1 Develop Project Charter / Initializing**  
 _Process of developing a document that formally authorizes the existence of a project and provides the assigned project manager with the authority to apply organizational resources to project activities.  Provides a well-defined project start and project boundaries, creation of a formal record of the project, and a direct way for senior management to formally accept and commit to the project._  
-[Closing](#project-integration-management/4.1)  
+[Closing](project-integration-management#4.1)  
 
 <a name="13.1"></a>
 **13. Stakeholder Management / 13.1 Identify Stakeholders / Initializing**  
