@@ -31,6 +31,7 @@ _Process of developing a document that formally authorizes the existence of a pr
 <a name="13.1"></a>
 **13. Stakeholder Management / 13.1 Identify Stakeholders / Initializing**  
 _Process of identifying people, groups, or organizations that could be impacted by a decision, activity, or outcome of the project; and analyzing and documenting relevant information regarding their interests, involvement, interdependencies, influence, and potential impact on project success.  Allows the project manager to identify the appropriate focus for each stakeholder or group of stakeholders._  
+[PMBOK](project-stakeholder-management.md#13.1)  
 
 <a name="planning"></a>
 ## Planning
